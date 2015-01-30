@@ -6,7 +6,7 @@ type: interactive practice
 
 ##Sinatra Template
 
-Fork and clone this repository to use as a template for your final project.
+Fork and clone this repository to use as a template for your project.
 
 
 

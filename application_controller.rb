@@ -1,7 +1,7 @@
 require 'bundler'
 Bundler.require
 
-class MyApp < Sinatra::Base
+class ApplicationController < Sinatra::Base
 
   get '/' do
     erb :index
