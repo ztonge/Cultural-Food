@@ -1,5 +1,6 @@
 require 'bundler'
 Bundler.require
+Dotenv.load
 
 class ApplicationController < Sinatra::Base
 
